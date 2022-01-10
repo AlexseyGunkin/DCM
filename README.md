@@ -54,7 +54,7 @@ DCM начнет собирать данные по всем касаниям п
 4. cat – категория конверсии, цифры и латинские буквы. Что бы её получить, необходимо создать в разделе Activities - Advanced properties новую сущность, категория конверсии это Activity tag string
 ![Рис.7](images/cat.png)
 5. Пользовательские floodlight параметры. Их вы можете взять в разделе Floodlight - Configuration - Custom Floodlight variables
-![Рис.8](images/Floodlight.png)
+![Рис.8](images/Floodlight1.png)
 
 - Переменная u №1 – номер переменной «u», в которую передается ID для связи конверсий, вы указываете только ее номер в DCM;
 
