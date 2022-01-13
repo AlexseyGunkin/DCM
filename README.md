@@ -30,7 +30,7 @@
 - откроется окно для входа в Google аккаунт , где необходимо будет авторизоваться.
 ![Рис.4](images/LKCT.png)
 - затем появиться окно в котором необходимо будет ввести "ID профиля DCM", его можно будет найти кликнув по иконке профиля google в правом верхнем углу браузера "google chrome"
-![Рис.5](images/DCMID2.png)
+![Рис.5](images/DCMID21.png)
 ![Рис.6](images/LKID.png)
 
   
@@ -44,11 +44,11 @@
 
 
 1) src – id для отправки, только цифры, полный url не нужен (можно получить в DCM);
-![Рис.10](images/src.png)
+![Рис.10](images/src1.png)
 2) type – тип конверсии, цифры и латинские буквы (можно получить в DCM Floodlight - Activity groups);
-![Рис.11](images/type.png)
+![Рис.11](images/type1.png)
 3) cat – категория конверсии, цифры и латинские буквы. Что бы её получить, необходимо создать в разделе Activities - Advanced properties новую сущность, категория конверсии это Activity tag string
-![Рис.12](images/cat.png)
+![Рис.12](images/cat1.png)
 
    ![Рис.8](images/skript2.jpg)
 
