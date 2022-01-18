@@ -42,9 +42,13 @@
 
 
 1) src – id для отправки, только цифры, полный url не нужен (можно получить в DCM);
+
 ![Рис.10](images/src1.png)
+
 2) type – тип конверсии, цифры и латинские буквы (можно получить в DCM Floodlight - Activity groups);
+
 ![Рис.11](images/type1.png)
+
 3) cat – категория конверсии, цифры и латинские буквы. Что бы её получить, необходимо создать в разделе Activities - Advanced properties новую сущность, категория конверсии это Activity tag string
 ![Рис.12](images/cat1.png)
 
