@@ -51,7 +51,7 @@
 
 3)Тип конверсии (type) – цифры и латинские буквы (можно получить в DCM Floodlight - Activity groups);
 
-![Рис.11](images/type_1.png)
+![Рис.11](images/type_2.jpg)
 
 4)Категория конверсии (cat) – цифры и латинские буквы. Что бы её получить, необходимо создать в разделе Activities - Advanced properties новую сущность, категория конверсии это Activity tag string
 
